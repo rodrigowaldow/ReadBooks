@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ReadBooks.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ReadBooks.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReadBooks.Core.dll": {}
+        }
+      },
+      "ReadBooks.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ReadBooks.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ReadBooks.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReadBooks.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReadBooks.Core/1.0.0": {
+      "type": "project",
+      "path": "../ReadBooks.Core/ReadBooks.Core.csproj",
+      "msbuildProject": "../ReadBooks.Core/ReadBooks.Core.csproj"
+    },
+    "ReadBooks.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../ReadBooks.Infrastructure/ReadBooks.Infrastructure.csproj",
+      "msbuildProject": "../ReadBooks.Infrastructure/ReadBooks.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ReadBooks.Core >= 1.0.0",
+      "ReadBooks.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rwaldow\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rwaldow\\source\\repos\\ReadBooks\\ReadBooks.Application\\ReadBooks.Application.csproj",
+      "projectName": "ReadBooks.Application",
+      "projectPath": "C:\\Users\\rwaldow\\source\\repos\\ReadBooks\\ReadBooks.Application\\ReadBooks.Application.csproj",
+      "packagesPath": "C:\\Users\\rwaldow\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rwaldow\\source\\repos\\ReadBooks\\ReadBooks.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rwaldow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\rwaldow\\source\\repos\\ReadBooks\\ReadBooks.Core\\ReadBooks.Core.csproj": {
+              "projectPath": "C:\\Users\\rwaldow\\source\\repos\\ReadBooks\\ReadBooks.Core\\ReadBooks.Core.csproj"
+            },
+            "C:\\Users\\rwaldow\\source\\repos\\ReadBooks\\ReadBooks.Infrastructure\\ReadBooks.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\rwaldow\\source\\repos\\ReadBooks\\ReadBooks.Infrastructure\\ReadBooks.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

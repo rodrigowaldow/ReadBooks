@@ -1,0 +1,11 @@
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Core\obj\Debug\net5.0\ReadBooks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Core\obj\Debug\net5.0\ReadBooks.Core.AssemblyInfoInputs.cache
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Core\obj\Debug\net5.0\ReadBooks.Core.AssemblyInfo.cs
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Core\obj\Debug\net5.0\ReadBooks.Core.csproj.CoreCompileInputs.cache
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Core\bin\Debug\net5.0\ReadBooks.Core.deps.json
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Core\bin\Debug\net5.0\ReadBooks.Core.dll
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Core\bin\Debug\net5.0\ref\ReadBooks.Core.dll
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Core\bin\Debug\net5.0\ReadBooks.Core.pdb
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Core\obj\Debug\net5.0\ReadBooks.Core.dll
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Core\obj\Debug\net5.0\ref\ReadBooks.Core.dll
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Core\obj\Debug\net5.0\ReadBooks.Core.pdb

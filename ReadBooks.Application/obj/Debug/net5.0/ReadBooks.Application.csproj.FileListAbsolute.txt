@@ -1,0 +1,17 @@
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\obj\Debug\net5.0\ReadBooks.Application.csproj.AssemblyReference.cache
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\obj\Debug\net5.0\ReadBooks.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\obj\Debug\net5.0\ReadBooks.Application.AssemblyInfoInputs.cache
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\obj\Debug\net5.0\ReadBooks.Application.AssemblyInfo.cs
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\obj\Debug\net5.0\ReadBooks.Application.csproj.CoreCompileInputs.cache
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\bin\Debug\net5.0\ReadBooks.Application.deps.json
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\bin\Debug\net5.0\ReadBooks.Application.dll
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\bin\Debug\net5.0\ref\ReadBooks.Application.dll
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\bin\Debug\net5.0\ReadBooks.Application.pdb
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\bin\Debug\net5.0\ReadBooks.Core.dll
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\bin\Debug\net5.0\ReadBooks.Infrastructure.dll
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\bin\Debug\net5.0\ReadBooks.Core.pdb
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\bin\Debug\net5.0\ReadBooks.Infrastructure.pdb
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\obj\Debug\net5.0\ReadBooks.Application.csproj.CopyComplete
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\obj\Debug\net5.0\ReadBooks.Application.dll
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\obj\Debug\net5.0\ref\ReadBooks.Application.dll
+C:\Users\rwaldow\source\repos\ReadBooks\ReadBooks.Application\obj\Debug\net5.0\ReadBooks.Application.pdb

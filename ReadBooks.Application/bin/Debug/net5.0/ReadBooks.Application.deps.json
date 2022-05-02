@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ReadBooks.Application/1.0.0": {
+        "dependencies": {
+          "ReadBooks.Core": "1.0.0",
+          "ReadBooks.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "ReadBooks.Application.dll": {}
+        }
+      },
+      "ReadBooks.Core/1.0.0": {
+        "runtime": {
+          "ReadBooks.Core.dll": {}
+        }
+      },
+      "ReadBooks.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ReadBooks.Core": "1.0.0"
+        },
+        "runtime": {
+          "ReadBooks.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReadBooks.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReadBooks.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReadBooks.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
